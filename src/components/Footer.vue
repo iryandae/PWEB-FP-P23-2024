@@ -1,6 +1,6 @@
 <template>
-  <footer class="bg-gray-800 p-4 text-center text-white">
-    <p>&copy; 2024 StaySync. All rights reserved.</p>
+  <footer class="bg-gray-800 p-4 text-right text-white">
+    <p>&copy; 2024 PWEB-P23. All rights reserved.</p>
   </footer>
 </template>
 

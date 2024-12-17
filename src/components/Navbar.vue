@@ -8,7 +8,7 @@
         {{ username }}
       </template>
       <template v-else>
-        <a href="/" class="text-white no-underline hover:underline">Login</a>
+        <router-link to="/" class="text-white no-underline">Login</router-link>
       </template>
     </div>
   </nav>

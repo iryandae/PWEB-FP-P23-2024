@@ -44,7 +44,7 @@ export default {
       };
 
       if (this.username === dummyData.username && this.password === dummyData.password) {
-        alert('Login successful!');
+        
       } else {
         alert('Invalid username or password.');
       }
