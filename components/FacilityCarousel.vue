@@ -39,8 +39,9 @@ export default {
 </script>
 
 <style scoped>
-.facility-carousel {
-  width: 100%;
-  overflow: hidden;
-}
+  @import '/assets/styles/tailwind.css';
+  .facility-carousel {
+    width: 100%;
+    overflow: hidden;
+  }
 </style>

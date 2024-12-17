@@ -29,8 +29,8 @@
   </template>
   
   <script>
-  import Navbar from './src/components/Navbar.vue';
-  import Footer from './src/components/Footer.vue';
+  import Navbar from '/components/Navbar.vue';
+  import Footer from '/components/Footer.vue';
   
   export default {
     components: {
@@ -62,6 +62,6 @@
   </script>
   
   <style>
-    @import 'src/assets/styles/tailwind.css';
+    @import '/assets/styles/tailwind.css';
   </style>
   
